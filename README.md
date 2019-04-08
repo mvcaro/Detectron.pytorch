@@ -20,7 +20,7 @@
 
 **This code follows the implementation architecture of Detectron.** Only part of the functionality is supported. Check [this section](#supported-network-modules) for more information.
 
-With this code, you can...
+With this code, you can ...
 
 1. **Train your model from scratch.**
 2. **Inference using the pretrained weight file (*.pkl) from Detectron.**
